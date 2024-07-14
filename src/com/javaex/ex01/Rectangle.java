@@ -1,6 +1,8 @@
 package com.javaex.ex01;
 
 public class Rectangle {
+	
+	//아래의 내용처럼 출력되도록 RecListApp.java 클래스를 작성하세요.(Rectangle.java 파일은 수정하지 않습니다.)
 
 	//필드
 	private int width;
