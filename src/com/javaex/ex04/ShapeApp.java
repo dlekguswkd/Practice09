@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ShapeApp {
+	
+	//그림과 같은 상속관계를 나타내고 있을 때, 아래 질문에 대한 클래스를 작성하십시오.
 
     public static void main(String[] args) {
         List<Shape> sList = new ArrayList<Shape>(); 
